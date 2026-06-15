@@ -1,5 +1,7 @@
 # Azure Update Manager Lab — Patch Management with Terraform
 
+# Loom video Documentation link: https://www.loom.com/share/08218a407ae648709c9c75f1b9db1708
+
 A fully automated, modular patch-management environment on Microsoft Azure, built end-to-end with Terraform. The lab provisions a small Windows domain (one domain controller and two workstations), enrolls every machine in **Azure Update Manager**, defines a weekly maintenance schedule, enforces periodic assessment through Azure Policy, and produces an on-demand JSON compliance report.
 
 The goal is not just to deploy infrastructure, but to demonstrate a **reproducible, recoverable, and secure** infrastructure-as-code workflow — including how real Azure constraints (quotas, capacity, policy prerequisites) are diagnosed and resolved.

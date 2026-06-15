@@ -191,7 +191,7 @@ Report exported: aum-compliance-report.json
 
 The exported report — machine-readable, suitable for feeding a SIEM, ticketing system, or audit archive.
 
-![Compliance report JSON](screenshots/Aum__Complaince_report.png)
+![Compliance report JSON](screenshots/compliance_report.png)
 
 ---
 
